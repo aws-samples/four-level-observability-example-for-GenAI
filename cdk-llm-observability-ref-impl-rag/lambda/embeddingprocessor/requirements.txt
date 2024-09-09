@@ -1,0 +1,4 @@
+requests
+requests-aws4auth
+opensearch-py
+boto3==1.34.42

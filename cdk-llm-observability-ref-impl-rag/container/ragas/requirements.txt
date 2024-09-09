@@ -1,0 +1,8 @@
+ragas 
+pydantic
+unstructured 
+unstructured[pdf] 
+opencv-python 
+boto3 
+langchain-aws 
+langchain-community

@@ -1,0 +1,5 @@
+---
+region: us-east-1
+metrics:
+ - aws_namespace: AWS/Bedrock
+   aws_metric_name: Invocations
